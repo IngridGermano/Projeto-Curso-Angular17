@@ -1,4 +1,4 @@
-Projeto de Formulário reativo realizado no curso de Angular 17, projeto final no COMPONENTE13, com comunicaçãpo com API falsa através do JSON, em produtos.json.
+Projeto de Formulário reativo realizado no curso de Angular 17, projeto final no COMPONENTE13, com comunicação com API falsa através do JSON, em produtos.json.
 
 # CursoAngularBasico
 
